@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cielo</h1>
-
 <h3 align="center"> 👩🏻‍💻 AI & Data Engineer · 🏗️ Data Architect · 🤖 AI Enthusiast </h3>
-
 <p align="center"> <a href="https://github.com/Cielo12019"> <img src="https://img.shields.io/github/followers/Cielo12019?style=flat&logo=github&label=Followers" /> </a> <a href="https://github.com/Cielo12019?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=flat&logo=github" /> </a> <a href="https://github.com/Cielo12019?tab=stars"> <img src="https://img.shields.io/github/stars/Cielo12019?style=flat&logo=github&label=Stars" /> </a> </p>
 
 <p align="center"> <b>Building scalable data platforms and AI-powered products.</b> </p>
-
 <p align="center"> ☁️ Cloud · 📊 Data Engineering · 🏗️ Architecture · 🤖 GenAI </p>
 
 ### 👩🏻‍💻 About Me
 
-* 🤖 **AI & Data Engineer** Working with **GCP, BigQuery, Snowflake & Azure**
-* 🌎 Experience working on **international projects** with Generative AI, LLMs & AI Agents
+🌎 **International Projects**  ☁️ **GCP, BigQuery, Snowflake & Azure**  🧠 **Generative AI, LLMs & AI Agents** · 🚀 **Scalable Data & AI Solutions**
 
 ### 🛠️ Languages and Tools
 
@@ -67,8 +63,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cielo12019&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cielo12019&theme=transparent&hide_border=true" height="165"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Cielo12019&theme=transparent&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ### 🤝 Connect with me
@@ -88,5 +86,3 @@
 </a>
 
 </p>
-
-<h3 align="center">🚀 Data + AI → Building the future</h3>
