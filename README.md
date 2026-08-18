@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=flat&logo=github" />
   </a>
     <a href="https://github.com/Cielo12019">
-    <img src="https://komarev.com/ghpvc/?username=Cielo12019&style=flat&color=blue&label=Profile+Views" />
+    <img src="https://komarev.com/ghpvc/?username=Cielo12019&style=flat&label=Profile+Views&base=100000" />
   </a>
   <a href="https://github.com/Cielo12019?tab=stars">
     <img src="https://img.shields.io/github/stars/Cielo12019?style=flat&logo=github&label=Stars" />
