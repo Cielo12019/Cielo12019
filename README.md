@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cielo</h1>
-<h3 align="center"> 👩🏻‍💻 AI & Data Engineer · 🏗️ Data Architect · 🤖 AI Enthusiast </h3>
+<h3 align="center"> 👩🏻‍💻 AI & Data Engineer · 🏗️ Data Architect · 🤖 AI Engineer </h3>
 <p align="center"> <a href="https://github.com/Cielo12019"> <img src="https://img.shields.io/github/followers/Cielo12019?style=flat&logo=github&label=Followers" /> </a> <a href="https://github.com/Cielo12019?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=flat&logo=github" /> </a> <a href="https://github.com/Cielo12019?tab=stars"> <img src="https://img.shields.io/github/stars/Cielo12019?style=flat&logo=github&label=Stars" /> </a> </p>
 
 <p align="center"> <b>Building scalable data platforms and AI-powered products.</b> </p>
